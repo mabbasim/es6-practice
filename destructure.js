@@ -1,5 +1,5 @@
 // object destructure........
-const person = {name: 'Maya', age: 22, phone: 0178810283, address: 'Sylhet', salary: 50000};
+const person = {name: 'Maya', age: 22, phone: '0178810283' , address: 'Sylhet', salary: 50000};
 // const personName = person.name;
 // console.log(personName);
 
